@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VinitYP
 - 🌱 I’m currently working as a Technical Consulting Engineer (TAC Wireless) at Cisco
 - 😎 Experienced in Wireless Network troubleshooting and enhancing Customer Experience
-- 💞️ I’m seeking TAC and Network Engineer roles in major tech companies
+- 💞️ I’m seeking TAC, Network Engineer, Technical Consulting Engineer roles in tech companies
 - 🕵️‍♂️ CCNA certified with strong skills in Network Fundamentals, LAN Switching, and Wireless
 - 📫 You can reach me at vinit.pardhi7501@gmail.com
