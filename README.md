@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @VinitYP
-- 👀 I’m interested in Tech, Making Practical Projects.
-- 🌱 I’m currently learning DSA plus working on Blockchain based project.
-- 😎 Having hands of Experience in Java,Python, OOPs,SDLC,SQL,
-- 💞️ I’m looking to collaborate on Tech Giants.
-- 📫 How to reach me vinit.pardhi7501@gmail.com
-
-
-
+- 🌱 I’m currently working as a Technical Consulting Engineer (TAC Wireless) at Cisco
+- 😎 Experienced in Wireless Network troubleshooting and enhancing Customer Experience
+- 💞️ I’m seeking TAC and Network Engineer roles in major tech companies
+- 🕵️‍♂️ CCNA certified with strong skills in Network Fundamentals, LAN Switching, and Wireless
+- 📫 You can reach me at vinit.pardhi7501@gmail.com
